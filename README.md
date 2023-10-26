@@ -1,4 +1,4 @@
-# IQA_Metrics_Toolbox
+# IQ_Metrics
 
 <!-- ## Getting started
 
