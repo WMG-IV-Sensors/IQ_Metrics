@@ -137,8 +137,15 @@ If you have run out of energy or time for your project, put a note at the top of
 5) Type the following command in the new terminal window:
 
     ```
-    git clone -b main git@wmg-gitlab.wmgds.wmg.warwick.ac.uk:iv-sensors/grads/ima/iqa_metrics_toolbox.git
+    git clone -b main git@github.com:WMG-IV-Sensors/IQ_Metrics.git
     ```
+
+    or
+   
+    ```
+    git clone -b main git@github.com:WMG-IV-Sensors/IQ_Metrics.git
+    ```
+   
 
 ### Installing required libraries in base Anaconda environment:
 1) Open 'Anaconda Prompt' (you can search for it in the windows search bar at the bottom left of your screen)
