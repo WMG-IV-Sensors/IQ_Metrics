@@ -143,7 +143,7 @@ If you have run out of energy or time for your project, put a note at the top of
     or
    
     ```
-    git clone -b main git@github.com:WMG-IV-Sensors/IQ_Metrics.git
+    git clone -b main https://github.com/WMG-IV-Sensors/IQ_Metrics.git
     ```
    
 
